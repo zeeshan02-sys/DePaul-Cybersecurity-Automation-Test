@@ -6,6 +6,9 @@ def calculate_sum(a, b):
     """
     return a + b
 
+def hello_world():
+    return "Hello World!"
+    
 def display_sum(a, b):
     """
     Display the sum of two numbers.
